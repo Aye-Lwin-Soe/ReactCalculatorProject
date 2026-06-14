@@ -1,0 +1,11 @@
+
+Extension
+===================
+
+HTML CSS Support
+
+IntelliSense for CSS class names in HTML
+
+Prettier - Code formatter
+
+ES7+ React/Redux/React-Native snippets (rafce)
